@@ -1,8 +1,7 @@
 # Systems Programming | Operating Systems
 
 **Academic Project — Spring 2024**  
-Instructor: Mythili Vutukuru
-
+Instructor: Mythili Vutukuru.
 Course: **Systems Programming / Operating Systems**
 
 ---
